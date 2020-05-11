@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if [[ -f websites-out.dat ]]
 then
     rm websites-out.dat
