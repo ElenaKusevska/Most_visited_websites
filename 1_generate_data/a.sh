@@ -23,8 +23,7 @@ do
         if [[ -n $(whois $j | grep '^City\|^city') ]]
         then
             City=$(whois $j | grep '^City\|^city' | head -1 \
-                | awk '{for (i=2; i<=NF; i++) print $i}' \
-                | sed 's/ /_/g')
+                | awk '{for (i=2; i<=NF; i++) print $i}'
         else
             City='NoData'
         fi
