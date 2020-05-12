@@ -18,12 +18,12 @@ do
     # and the number of hops:
     for j in $digs
     do
-        nhops=$(traceroute $j | sed '1d' | wc -l)
+        nhops=$(tcptraceroute $j | grep -v '* * *' | sed '1d' | wc -l)
         
         if [[ -n $(whois $j | grep '^City\|^city') ]]
         then
             City=$(whois $j | grep '^City\|^city' | head -1 \
-                | awk '{for (i=2; i<=NF; i++) print $i}'
+                | awk '{for (i=2; i<=NF; i++) print $i}')
         else
             City='NoData'
         fi
