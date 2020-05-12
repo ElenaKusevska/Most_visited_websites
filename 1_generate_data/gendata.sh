@@ -18,7 +18,7 @@ do
     # and the number of hops:
     for j in $digs
     do
-        nhops=$(tcptraceroute $j | grep -v '* * *' | sed '1d' | wc -l)
+        nhops=$(tcptraceroute $j | grep -v '*' | sed '1d' | wc -l)
         
         if [[ -n $(whois $j | grep '^City\|^city') ]]
         then
