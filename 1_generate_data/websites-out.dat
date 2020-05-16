@@ -1,107 +1,108 @@
-youtube.com 216.58.208.46 2 Mountain View US
-facebook.com 185.60.216.35 2 NoData IE
+youtube.com 172.217.16.142 1 Mountain View US
+facebook.com 157.240.20.35 1 Menlo Park US
 en.wikipedia.org 91.198.174.192 2 NoData NL
+twitter.com 104.244.42.1 2 San Francisco US
 twitter.com 104.244.42.193 2 San Francisco US
 amazon.com 176.32.103.205 2 NoData US
 amazon.com 205.251.242.103 2 SEATTLE US
 amazon.com 176.32.98.166 2 NoData US
-play.google.com 172.217.22.78 2 Mountain View US
-instagram.com 3.226.111.93 2 Seattle US
-instagram.com 52.205.0.140 2 Seattle US
-instagram.com 3.223.124.56 2 Herndon US
-instagram.com 52.1.109.248 2 Seattle US
-instagram.com 3.210.30.78 2 Herndon US
-instagram.com 18.211.69.194 2 Seattle US
-instagram.com 3.224.37.102 2 Seattle US
-instagram.com 3.223.123.176 2 Herndon US
+play.google.com 216.58.207.78 2 Mountain View US
+instagram.com 34.239.39.134 2 Seattle US
+instagram.com 3.224.3.80 2 Seattle US
+instagram.com 3.210.81.177 2 Herndon US
+instagram.com 3.218.3.143 2 Herndon US
+instagram.com 34.227.122.11 2 Seattle US
+instagram.com 3.211.39.152 2 Herndon US
+instagram.com 52.201.90.120 2 Seattle US
+instagram.com 3.214.138.217 2 Herndon US
 es.wikipedia.org 91.198.174.192 2 NoData NL
 pinterest.com 151.101.192.84 2 San Francisco US
 pinterest.com 151.101.0.84 2 San Francisco US
-pinterest.com 151.101.64.84 2 San Francisco US
 pinterest.com 151.101.128.84 2 San Francisco US
+pinterest.com 151.101.64.84 1 San Francisco US
 live.com 204.79.197.212 2 Redmond US
 imdb.com 52.94.225.248 2 Seattle US
 imdb.com 52.94.237.74 2 Seattle US
 imdb.com 52.94.228.167 2 Seattle US
 ja.wikipedia.org 91.198.174.192 2 NoData NL
-whatsapp.com 157.240.20.52 2 Menlo Park US
+whatsapp.com 31.13.92.52 2 NoData IE
 de.wikipedia.org 91.198.174.192 2 NoData NL
-fandom.com 151.101.64.194 2 San Francisco US
-fandom.com 151.101.192.194 2 San Francisco US
 fandom.com 151.101.0.194 2 San Francisco US
+fandom.com 151.101.192.194 2 San Francisco US
 fandom.com 151.101.128.194 2 San Francisco US
+fandom.com 151.101.64.194 2 San Francisco US
 fr.wikipedia.org 91.198.174.192 2 NoData NL
-vk.com 93.186.225.208 2 NoData RU
+vk.com 87.240.190.78 2 NoData RU
+vk.com 87.240.190.72 2 NoData RU
 vk.com 87.240.139.194 2 NoData RU
 vk.com 87.240.137.158 2 NoData RU
 vk.com 87.240.190.67 2 NoData RU
-vk.com 87.240.190.72 2 NoData RU
-vk.com 87.240.190.78 2 NoData RU
-reddit.com 151.101.1.140 2 San Francisco US
-reddit.com 151.101.129.140 2 San Francisco US
-reddit.com 151.101.65.140 2 San Francisco US
+vk.com 93.186.225.208 2 NoData RU
 reddit.com 151.101.193.140 2 San Francisco US
+reddit.com 151.101.1.140 2 San Francisco US
+reddit.com 151.101.65.140 2 San Francisco US
+reddit.com 151.101.129.140 2 San Francisco US
 ru.wikipedia.org 91.198.174.192 2 NoData NL
 apple.com 17.178.96.59 2 Cupertino US
 apple.com 17.172.224.47 2 Cupertino US
 apple.com 17.142.160.59 2 Cupertino US
-netflix.com 52.208.209.205 2 Dublin IE
-netflix.com 52.208.71.66 2 Dublin IE
-netflix.com 52.214.178.75 2 Dublin IE
-netflix.com 54.171.208.83 2 Seattle US
-netflix.com 52.16.225.224 2 Seattle US
-netflix.com 54.77.24.36 2 Seattle US
-netflix.com 54.229.126.132 2 Seattle US
-netflix.com 52.17.27.129 2 Seattle US
-amazon.co.jp 52.119.168.48 2 Seattle US
+netflix.com 54.194.87.208 2 Seattle US
+netflix.com 52.48.44.196 2 Dublin IE
+netflix.com 34.248.165.48 2 Dublin IE
+netflix.com 54.194.5.178 2 Seattle US
+netflix.com 54.154.83.0 2 Seattle US
+netflix.com 54.194.155.146 2 Seattle US
+netflix.com 52.48.35.66 2 Seattle IE
+netflix.com 34.241.244.104 2 Seattle US
 amazon.co.jp 52.119.161.5 2 Seattle US
+amazon.co.jp 52.119.168.48 2 Seattle US
 amazon.co.jp 52.119.164.121 2 Seattle US
 msn.com 13.82.28.61 2 Redmond US
-globo.com 186.192.90.5 2 NoData NoData
+globo.com 186.192.90.5 2 NoData BR
 linkedin.com 108.174.10.10 2 Sunnyvale US
-google.com 172.217.23.142 2 Mountain View US
+google.com 216.58.210.14 2 Mountain View US
 yelp.com 104.16.56.23 2 San Francisco US
 yelp.com 104.16.57.23 2 San Francisco US
+microsoft.com 13.77.161.179 2 Redmond US
 microsoft.com 104.215.148.63 2 Redmond US
+microsoft.com 40.76.4.15 2 Redmond US
 microsoft.com 40.113.200.201 2 Redmond US
 microsoft.com 40.112.72.205 2 Redmond US
-microsoft.com 40.76.4.15 2 Redmond US
-microsoft.com 13.77.161.179 2 Redmond US
-uol.com.br 200.147.3.157 2 NoData NoData
+uol.com.br 200.147.3.157 2 NoData BR
 it.wikipedia.org 91.198.174.192 2 NoData NL
 pt.wikipedia.org 91.198.174.192 2 NoData NL
 yahoo.co.jp 183.79.135.206 2 NoData JP
 yahoo.co.jp 182.22.59.229 2 NoData JP
 bbc.co.uk 151.101.0.81 2 San Francisco US
-bbc.co.uk 151.101.192.81 2 San Francisco US
 bbc.co.uk 151.101.128.81 2 San Francisco US
 bbc.co.uk 151.101.64.81 2 San Francisco US
-amazon.de 54.239.39.102 2 Seattle US
-amazon.de 52.95.120.34 2 Seattle US
+bbc.co.uk 151.101.192.81 2 San Francisco US
 amazon.de 176.32.108.185 2 NoData NL
+amazon.de 52.95.120.34 2 Seattle US
+amazon.de 54.239.39.102 2 Seattle US
+tripadvisor.com 192.229.182.112 2 Ashburn US
 tripadvisor.com 192.229.189.15 2 Ashburn US
 tripadvisor.com 192.229.162.112 2 Ashburn US
-tripadvisor.com 192.229.182.112 2 Ashburn US
 rakuten.co.jp 133.237.16.234 2 NoData NoData
-support.google.com 216.58.205.238 2 Mountain View US
+support.google.com 216.58.206.14 2 Mountain View US
 office.com 13.107.6.156 2 Redmond US
 theguardian.com 151.101.129.111 2 San Francisco US
-theguardian.com 151.101.65.111 2 San Francisco US
 theguardian.com 151.101.1.111 2 San Francisco US
+theguardian.com 151.101.65.111 2 San Francisco US
 theguardian.com 151.101.193.111 2 San Francisco US
 pl.wikipedia.org 91.198.174.192 2 NoData NL
-amazon.co.uk 54.239.34.171 2 Seattle US
-amazon.co.uk 54.239.33.58 2 Seattle US
 amazon.co.uk 178.236.7.220 2 NoData IE
-yandex.ru 77.88.55.60 2 NoData RU
-yandex.ru 77.88.55.55 2 NoData RU
-yandex.ru 5.255.255.55 2 NoData RU
+amazon.co.uk 54.239.33.58 2 Seattle US
+amazon.co.uk 54.239.34.171 2 Seattle US
+yandex.ru 77.88.55.50 2 NoData RU
 yandex.ru 5.255.255.50 2 NoData RU
-healthline.com 13.226.155.112 2 Seattle US
-healthline.com 13.226.155.93 2 Seattle US
-healthline.com 13.226.155.87 2 Seattle US
-healthline.com 13.226.155.90 2 Seattle US
-indeed.com 169.45.207.200 2 Amsterdam NL
+yandex.ru 5.255.255.55 2 NoData RU
+yandex.ru 77.88.55.55 2 NoData RU
+healthline.com 13.35.254.110 2 Seattle US
+healthline.com 13.35.254.77 2 Seattle US
+healthline.com 13.35.254.4 2 Seattle US
+healthline.com 13.35.254.127 2 Seattle US
+indeed.com 169.45.207.192 2 Amsterdam NL
 dailymotion.com 195.8.215.136 2 NoData FR
 ebay.com 66.135.196.249 2 San Jose US
 ebay.com 66.135.195.175 2 San Jose US
@@ -113,73 +114,73 @@ nicovideo.jp 133.152.43.29 2 NoData NoData
 roblox.com 128.116.123.3 2 San Mateo US
 booking.com 5.57.16.220 2 NoData GB
 mail.ru 94.100.180.200 2 NoData RU
-mail.ru 217.69.139.202 2 NoData RU
 mail.ru 217.69.139.200 2 NoData RU
+mail.ru 217.69.139.202 2 NoData RU
 mail.ru 94.100.180.201 2 NoData RU
-steampowered.com 2.17.182.211 2 NoData EU
-fb.com 185.60.216.35 2 NoData IE
-hurriyet.com.tr 34.249.120.252 2 Dublin IE
+steampowered.com 104.74.86.8 2 Amsterdam NL
+fb.com 157.240.20.35 2 Menlo Park US
+hurriyet.com.tr 34.249.120.252 2 Dublin US
 zh.wikipedia.org 91.198.174.192 2 NoData NL
 etsy.com 151.101.129.224 2 San Francisco US
 etsy.com 151.101.65.224 2 San Francisco US
 etsy.com 151.101.1.224 2 San Francisco US
 etsy.com 151.101.193.224 2 San Francisco US
 bbc.com 151.101.64.81 2 San Francisco US
-bbc.com 151.101.128.81 2 San Francisco US
 bbc.com 151.101.192.81 2 San Francisco US
+bbc.com 151.101.128.81 1 San Francisco US
 bbc.com 151.101.0.81 2 San Francisco US
-quora.com 34.193.164.38 2 Seattle US
 quora.com 3.222.111.119 2 Herndon US
+quora.com 3.225.69.214 2 Seattle US
 quora.com 34.192.36.169 2 Seattle US
 quora.com 3.83.198.49 2 Herndon US
-quora.com 3.234.39.254 2 Seattle US
-quora.com 3.225.69.214 2 Seattle US
 quora.com 34.200.203.218 2 Seattle US
 quora.com 3.229.190.14 2 Seattle US
-mail.yahoo.com 87.248.118.22 2 NoData IE
+quora.com 3.234.39.254 2 Seattle US
+quora.com 34.193.164.38 2 Seattle US
 mail.yahoo.com 87.248.118.23 2 NoData IE
+mail.yahoo.com 87.248.118.22 2 NoData IE
 spotify.com 35.186.224.25 2 Mountain View US
 cnn.com 151.101.129.67 2 San Francisco US
+cnn.com 151.101.193.67 2 San Francisco US
 cnn.com 151.101.1.67 2 San Francisco US
 cnn.com 151.101.65.67 2 San Francisco US
-cnn.com 151.101.193.67 2 San Francisco US
 webmd.com 104.18.24.142 2 San Francisco US
 webmd.com 104.18.25.142 2 San Francisco US
 nytimes.com 151.101.129.164 2 San Francisco US
 nytimes.com 151.101.65.164 2 San Francisco US
 nytimes.com 151.101.193.164 2 San Francisco US
 nytimes.com 151.101.1.164 2 San Francisco US
-mercadolivre.com.br 13.226.155.50 2 Seattle US
-mercadolivre.com.br 13.226.155.21 2 Seattle US
-mercadolivre.com.br 13.226.155.86 2 Seattle US
-mercadolivre.com.br 13.226.155.121 2 Seattle US
-merriam-webster.com 13.226.155.45 2 Seattle US
-merriam-webster.com 13.226.155.39 2 Seattle US
-merriam-webster.com 13.226.155.90 2 Seattle US
-merriam-webster.com 13.226.155.12 2 Seattle US
-uptodown.com 95.100.65.90 2 NoData EU
+mercadolivre.com.br 143.204.201.121 2 Seattle US
+mercadolivre.com.br 143.204.201.124 2 Seattle US
+mercadolivre.com.br 143.204.201.34 2 Seattle US
+mercadolivre.com.br 143.204.201.74 2 Seattle US
+merriam-webster.com 143.204.201.80 2 Seattle US
+merriam-webster.com 143.204.201.69 2 Seattle US
+merriam-webster.com 143.204.201.22 2 Seattle US
+merriam-webster.com 143.204.201.6 2 Seattle US
+uptodown.com 2.23.181.50 2 NoData EU
 rottentomatoes.com 23.45.238.147 2 Amsterdam NL
 softonic.com 35.227.233.104 2 Mountain View US
 y2mate.com 104.23.131.73 2 San Francisco US
 y2mate.com 104.23.132.73 2 San Francisco US
 amazon.fr 52.95.116.113 2 Seattle US
-amazon.fr 52.95.120.39 2 Seattle US
 amazon.fr 54.239.33.91 2 Seattle US
-gamepedia.com 104.27.138.186 2 San Francisco US
+amazon.fr 52.95.120.39 2 Seattle US
 gamepedia.com 104.27.139.186 2 San Francisco US
-espn.com 13.226.155.61 2 Seattle US
-espn.com 13.226.155.22 2 Seattle US
-espn.com 13.226.155.107 2 Seattle US
-espn.com 13.226.155.27 2 Seattle US
-twitch.tv 151.101.2.167 2 San Francisco US
-twitch.tv 151.101.194.167 2 San Francisco US
-twitch.tv 151.101.66.167 2 San Francisco US
+gamepedia.com 104.27.138.186 2 San Francisco US
+espn.com 143.204.201.84 2 Seattle US
+espn.com 143.204.201.23 2 Seattle US
+espn.com 143.204.201.78 2 Seattle US
+espn.com 143.204.201.20 2 Seattle US
 twitch.tv 151.101.130.167 2 San Francisco US
-leboncoin.fr 35.181.111.82 2 Clichy FR
+twitch.tv 151.101.66.167 2 San Francisco US
+twitch.tv 151.101.194.167 2 San Francisco US
+twitch.tv 151.101.2.167 2 San Francisco US
 leboncoin.fr 35.181.144.245 2 Clichy FR
+leboncoin.fr 35.181.111.82 2 Clichy FR
 leboncoin.fr 15.236.48.125 2 Seattle US
-allegro.pl 185.31.27.161 2 NoData PL
-indiatimes.com 95.101.44.69 2 NoData EU
+allegro.pl 5.134.213.82 2 NoData PL
+indiatimes.com 104.125.24.102 2 Cambridge US
 cambridge.org 204.74.99.103 2 Tempe US
 nih.gov 54.235.145.223 2 Seattle US
 kinopoisk.ru 87.250.251.105 2 NoData RU
@@ -187,40 +188,42 @@ kinopoisk.ru 213.180.193.105 2 NoData RU
 ar.wikipedia.org 91.198.174.192 2 NoData NL
 nl.wikipedia.org 91.198.174.192 2 NoData NL
 login.yahoo.com 212.82.100.140 2 NoData CH
-elpais.com 72.247.179.80 2 Cambridge US
-elpais.com 72.247.179.90 2 Cambridge US
+elpais.com 72.247.178.225 2 Cambridge US
+elpais.com 72.247.179.82 2 Cambridge US
+elpais.com 72.247.178.235 2 Cambridge US
+elpais.com 72.247.178.202 1 Cambridge US
 id.wikipedia.org 91.198.174.192 2 NoData NL
-namu.wiki 104.19.251.66 2 San Francisco US
 namu.wiki 104.19.250.66 2 San Francisco US
-orange.fr 193.252.148.140 2 NoData FR
+namu.wiki 104.19.251.66 2 San Francisco US
 orange.fr 193.252.133.34 2 NoData FR
-britannica.com 54.84.146.50 2 Seattle US
+orange.fr 193.252.148.140 2 NoData FR
 britannica.com 52.0.209.61 2 Seattle US
-pixiv.net 210.140.131.219 2 NoData NoData
+britannica.com 54.152.105.45 2 Seattle US
 pixiv.net 210.140.131.223 2 NoData NoData
+pixiv.net 210.140.131.219 2 NoData NoData
 flvto.biz 89.248.168.180 2 NoData NL
-dictionary.com 151.101.66.133 2 San Francisco US
-dictionary.com 151.101.194.133 2 San Francisco US
 dictionary.com 151.101.2.133 2 San Francisco US
+dictionary.com 151.101.194.133 2 San Francisco US
 dictionary.com 151.101.130.133 2 San Francisco US
+dictionary.com 151.101.66.133 2 San Francisco US
 reverso.net 54.36.69.215 2 Amsterdam NL
 tribunnews.com 113.11.255.38 2 NoData SG
 mayoclinic.org 129.176.1.88 2 Rochester US
-ivi.ru 80.67.43.1 2 NoData RU
 ivi.ru 80.67.43.33 2 NoData RU
-eksisozluk.com 176.53.43.9 2 NoData TR
-eksisozluk.com 176.53.43.8 2 NoData TR
+ivi.ru 80.67.43.1 2 NoData RU
 eksisozluk.com 176.53.43.6 2 NoData TR
-eksisozluk.com 176.53.43.2 2 NoData TR
-eksisozluk.com 176.53.43.11 2 NoData TR
-eksisozluk.com 176.53.43.5 2 NoData TR
 eksisozluk.com 176.53.43.3 2 NoData TR
 eksisozluk.com 176.53.43.7 2 NoData TR
-eksisozluk.com 176.53.43.4 2 NoData TR
 eksisozluk.com 176.53.43.10 2 NoData TR
+eksisozluk.com 176.53.43.2 2 NoData TR
+eksisozluk.com 176.53.43.5 2 NoData TR
+eksisozluk.com 176.53.43.4 2 NoData TR
+eksisozluk.com 176.53.43.8 2 NoData TR
+eksisozluk.com 176.53.43.9 2 NoData TR
+eksisozluk.com 176.53.43.11 2 NoData TR
 allocine.fr 185.129.44.23 2 NoData FR
 allocine.fr 185.129.44.22 2 NoData FR
-genius.com 104.18.18.96 2 San Francisco US
 genius.com 104.18.19.96 2 San Francisco US
-adobe.com 193.104.215.58 2 NoData IE
+genius.com 104.18.18.96 2 San Francisco US
 adobe.com 192.147.130.204 2 San Jose US
+adobe.com 193.104.215.58 2 NoData IE
